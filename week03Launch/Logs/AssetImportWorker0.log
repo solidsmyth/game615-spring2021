@@ -1,0 +1,223 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1379; Version 1909; 64bit' Language: 'en' Physical Memory: 16326 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/week03Launch
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64036
+Successfully changed project path to: C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/week03Launch
+C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/week03Launch
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/week03Launch/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002156 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000729 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.835 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1546.
+Total: 1.449100 ms (FindLiveObjects: 0.117500 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.222900 ms  DeleteObjects: 0.072800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Ring.prefab
+  artifactKey: Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ring.prefab using Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a9231e269d3a806c92dbce41a8c24a') in 0.164251 seconds
+  Import took 0.166578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.589513 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(3a4cf7dd35f9f444386681d2b94080e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(3a4cf7dd35f9f444386681d2b94080e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bee62e800c6e5fbcecf7b3ee48a5006') in 0.008301 seconds
+  Import took 0.010355 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000743 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.715 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1556.
+Total: 1.400800 ms (FindLiveObjects: 0.114300 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.208400 ms  DeleteObjects: 0.045600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000724 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.807 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.8 MB.
+System memory in use after: 60.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 1.886400 ms (FindLiveObjects: 0.192300 ms CreateObjectMapping: 0.062800 ms MarkObjects: 1.576100 ms  DeleteObjects: 0.054000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 418.161443 seconds.
+  path: Assets/Ring.prefab
+  artifactKey: Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ring.prefab using Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9ca204c523467cc4f7c70e4da558ac') in 0.083768 seconds
+  Import took 0.086348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 205.084342 seconds.
+  path: Assets/Ring.prefab
+  artifactKey: Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ring.prefab using Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4528e079b960331521b053009ce041fe') in 0.014640 seconds
+  Import took 0.017247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.329214 seconds.
+  path: Assets/Ring.prefab
+  artifactKey: Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ring.prefab using Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c7792dc8eaa795bc600ca0ea010929') in 0.019470 seconds
+  Import took 0.022494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 265.683977 seconds.
+  path: Assets/Ring.prefab
+  artifactKey: Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ring.prefab using Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0956a4f6ad6d08c9b7d720fe119c1c84') in 0.013884 seconds
+  Import took 0.016451 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001148 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.1 MB.
+System memory in use after: 61.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.653000 ms (FindLiveObjects: 0.159800 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.411200 ms  DeleteObjects: 0.047100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 326.687706 seconds.
+  path: Assets/Ring.prefab
+  artifactKey: Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ring.prefab using Guid(904191d073af1db4680fefab5ff17298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f67a973a4f2912083ab839eff279b6') in 0.054038 seconds
+  Import took 0.055992 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1096 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.2 MB.
+System memory in use after: 61.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.785500 ms (FindLiveObjects: 0.123300 ms CreateObjectMapping: 0.025900 ms MarkObjects: 1.586500 ms  DeleteObjects: 0.049200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
