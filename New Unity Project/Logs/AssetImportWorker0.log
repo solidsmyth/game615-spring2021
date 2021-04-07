@@ -1,0 +1,131 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 16326 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65390
+Successfully changed project path to: C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/New Unity Project
+C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Sold Smyth/Documents/GitHub/game615-spring2021/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002143 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.166 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.2 MB.
+System memory in use after: 68.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1554.
+Total: 1.589300 ms (FindLiveObjects: 0.121500 ms CreateObjectMapping: 0.033700 ms MarkObjects: 1.355800 ms  DeleteObjects: 0.077100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(521194343299f2246b511420ff14a16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(521194343299f2246b511420ff14a16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee56d055d2d3ef4825e08f9a87fe8552') in 0.052861 seconds
+  Import took 0.055177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.702796 seconds.
+  path: Assets/TerrainData_4e68336d-25c7-4bc2-86d6-303ebacf4a9d.asset
+  artifactKey: Guid(3a95a45524039154ca0801858f6f388b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_4e68336d-25c7-4bc2-86d6-303ebacf4a9d.asset using Guid(3a95a45524039154ca0801858f6f388b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b532ada21690a86a2f65e121f9839925') in 0.012836 seconds
+  Import took 0.015475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.911556 seconds.
+  path: Assets/TerrainData_1056fe3d-52eb-4652-b831-91261eb4743d.asset
+  artifactKey: Guid(6e7d6a9275332d6409057979506ab48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_1056fe3d-52eb-4652-b831-91261eb4743d.asset using Guid(6e7d6a9275332d6409057979506ab48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afed2f49f8b8516edfeb757f5e307b7') in 0.021234 seconds
+  Import took 0.023853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.403506 seconds.
+  path: Assets/TerrainData_25876bad-7296-425d-9ed6-d9cfe8a3db96.asset
+  artifactKey: Guid(487568fd786d72d4d8f966e24afb51da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_25876bad-7296-425d-9ed6-d9cfe8a3db96.asset using Guid(487568fd786d72d4d8f966e24afb51da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7251f6092d9837a6eff3dc90b091ff24') in 0.013221 seconds
+  Import took 0.016472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.449814 seconds.
+  path: Assets/TerrainData_0ad06ed1-fd26-45b4-9a4e-a169abf2fc41.asset
+  artifactKey: Guid(9b0bc2198f56fb2439450e43882b045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_0ad06ed1-fd26-45b4-9a4e-a169abf2fc41.asset using Guid(9b0bc2198f56fb2439450e43882b045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c466eb66a492492372722aea577edd3a') in 0.013774 seconds
+  Import took 0.016034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.331107 seconds.
+  path: Assets/TerrainData_b1706543-8bfd-418e-99d3-28f12395f5fc.asset
+  artifactKey: Guid(d138f35cb8dc2f144bb02a26e6ff0fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_b1706543-8bfd-418e-99d3-28f12395f5fc.asset using Guid(d138f35cb8dc2f144bb02a26e6ff0fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d333d2efe195b00d6c497721038ad48') in 0.013270 seconds
+  Import took 0.015446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.460212 seconds.
+  path: Assets/TerrainData_22545eb5-058e-4d7e-9b9b-93cdaaa3c104.asset
+  artifactKey: Guid(142f01674d5097148a591417e0e3e1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_22545eb5-058e-4d7e-9b9b-93cdaaa3c104.asset using Guid(142f01674d5097148a591417e0e3e1e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa3a0aeda440f30c2280218ad017676') in 0.013296 seconds
+  Import took 0.015307 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
